@@ -1,0 +1,22 @@
+#forms {
+    display: flex;
+    justify-content: center;
+}
+
+#right_form {
+    margin-left: 10%;
+}
+
+#display {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+ul li {
+    width: 15%;
+    margin: 0 auto;
+    text-align: left;
+}
